@@ -4,3 +4,7 @@
     padding-left: 20px;
     padding-top: 80px;
 }
+.cart{
+    position: sticky;
+    top:0;
+}
